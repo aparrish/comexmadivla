@@ -40,22 +40,27 @@ Anaconda for your platform.
   tutorial](https://github.com/aparrish/rwet/blob/master/jupyter-notebook-tutorial.ipynb)
 * [Just enough
   Python](https://gist.github.com/aparrish/50803e0ae51a2c6e775af36ea79be285)
-* [Speculative magic words workbook](magic-words-workbook.ipynb) (Manipulating
-  strings, generating words with [Pincelate](http://pincelate.readthedocs.io))
 
-Assignment: (1) Produce a small "grimoire" consisting of text generated with (or
-inspired by) the tools discussed in class. (2) Invent or gather
-names/significations for ten (or more) oracle deck cards to contribute to our
-collective corpus.
+Assignment: Invent or gather names/significations for ten (or more) oracle
+deck cards to contribute to our collective corpus.
 
 ### Session 02 (2020-01-13)
 
-* Divination and semantic space
-* Python: Generating word bitmaps with GANs
-* Python: Sentence embeddings and nearest neighbors
-* Python: Text clustering
-* Python: Sampling from latent space models
+* Python: [Speculative magic words workbook](magic-words-workbook.ipynb)
+  (Manipulating strings, generating words with
+  [Pincelate](http://pincelate.readthedocs.io))
+* Python: [Cartomancy and semantic space](cartomancy-semantic-space.ipynb)
 
-Assignment: Produce an oracle deck using text generated with (or inspired by)
-the tools discussed in class.
+Assignment: Either (1) Produce an oracle deck using text generated with (or
+inspired by) the tools discussed in class or (1) Produce a small "grimoire"
+consisting of text generated with (or inspired by) the tools discussed in
+class.
+
+Things we didn't get to:
+
+* [Variational autoencoders](https://github.com/aparrish/vae-lagging-encoder/)
+  are a tricky but good way of generating text from a continuous space.
+* A [GAN trained on bitmaps of
+  words](https://github.com/aparrish/word-gan-book-generator) might be a good
+  way to generate words that look magical. Feel free to use mine.
 

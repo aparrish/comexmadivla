@@ -1,0 +1,16 @@
+name: comexmadivla
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - tensorflow
+  - pandas
+  - matplotlib
+  - pip:
+    - markovify
+    - simpleneighbors
+    - pronouncing
+    - tracery
+    - textgenrnn
+    - pincelate
+  - spacy

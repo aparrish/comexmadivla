@@ -2,6 +2,9 @@
 
 SFPC Code Societies 2020 / [Allison Parrish](http://www.decontextualize.com/)
 
+[Launch this repository on
+Binder](https://mybinder.org/v2/gh/aparrish/comexmadivla/master).
+
 ## Description
 
 Words have power that arises not just from their meaning but from their
@@ -30,6 +33,18 @@ desktop operating system (Windows, Linux, or MacOS). We'll be using the
 [Anaconda](https://www.anaconda.com/distribution/) distribution of the Python
 programming language. Please install the Python 3.7 (64-bit) version of
 Anaconda for your platform.
+
+To use the notebooks below, you'll need to install the following Python
+libraries:
+
+* [Tensorflow](https://www.tensorflow.org/)
+* [spaCy](https://spacy.io/)
+
+Instructions are included in the notebooks.
+
+If you're having trouble installing the libraries, you can also [use these
+notebooks](https://mybinder.org/v2/gh/aparrish/comexmadivla/master) on
+[Binder](https://mybinder.org/).
 
 ## Outline
 
